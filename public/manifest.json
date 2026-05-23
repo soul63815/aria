@@ -1,0 +1,16 @@
+{
+  "name": "Aria Music — Concert Hall Online",
+  "short_name": "Aria Music",
+  "description": "A peaceful, melodious piano you can play, listen to, and learn in your browser.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1a1208",
+  "theme_color": "#c9842a",
+  "orientation": "any",
+  "icons": [
+    { "src": "/aria-logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
